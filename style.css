@@ -176,3 +176,8 @@ h3 {
 	background-color: #c7f0e5;
 	background-image: url("../Resa-Tea/images/indexbg.png");
 }
+
+.menu {
+	padding-left: 5%;
+	width: 95%;
+}
