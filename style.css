@@ -16,6 +16,7 @@
 	cursor: pointer;
 	width: 75px;
 	border-radius: 15px;
+	margin-right: auto;
 }
 
 .contact{
@@ -42,7 +43,7 @@ li, a, button {
 
 .nav_bar {
 	display: flex;
-	justify-content: space-between;
+	justify-content: flex-end;
 	align-items: center;
 	padding: 10px 5%;
 	background-color: #2B2B2B;
